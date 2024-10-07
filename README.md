@@ -3,7 +3,7 @@
 This project aims to forecast the rising or declining values of various cryptocurrencies by analyzing sentiment from users' tweets. The sentiment analysis results are used to predict cryptocurrency price movements, and the findings are visualized with Tableau for further analysis and conclusions.
 
 ## Project Structure
-
+ 
 The project is organized into four main folders:
 
 ### 1. **Data Collection** (`01_Data_collection`)
